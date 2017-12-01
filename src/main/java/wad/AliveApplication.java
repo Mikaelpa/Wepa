@@ -11,14 +11,14 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/Mikaelpa/Wepa";
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/Mikaelpa/Wepa";
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://wepa-alive04.herokuapp.com/";
     }
 }
